@@ -1,3 +1,4 @@
+//this is not sum of subset , this is sum of pair is equal to given number
 #include <stdio.h>
 
 int main()
